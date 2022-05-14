@@ -1,4 +1,4 @@
-project
+virtualpc
 |
 |__ measure
      |__ __init__.py
