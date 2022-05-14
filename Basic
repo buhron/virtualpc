@@ -1,0 +1,8 @@
+virtualpc
+|
+|__ setup.py
+|
+|__ virtual-env-pc
+     |
+     |_  somePython.py
+     |_  __init__.py
